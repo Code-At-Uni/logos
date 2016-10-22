@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2022px" height="264px" viewBox="0 0 2022 264" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="logo" sketch:type="MSLayerGroup" transform="translate(-16.000000, -95.000000)" font-family="Sofia Pro" fill="#000000" font-weight="bold">
+            <g id="Symbols" sketch:type="MSTextLayer">
+                <g id="logo">
+                    <text id="CODE" font-size="368.355556">
+                        <tspan x="2.21013333" y="354.606061">CODE</tspan>
+                    </text>
+                    <text id="UNI" font-size="368.355556">
+                        <tspan x="1452.79431" y="350">UNI</tspan>
+                    </text>
+                    <g id="at" transform="translate(1236.293333, 232.606061) rotate(0.000000) translate(-1236.293333, -232.606061) translate(1109.671111, 73.696970)" font-size="257.848889">
+                        <text>
+                            <tspan x="0" y="244">at</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
